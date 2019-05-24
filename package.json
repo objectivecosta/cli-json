@@ -1,10 +1,10 @@
 {
-  "name": "json-util",
+  "name": "json-cli",
   "version": "1.0.0",
   "description": "",
   "main": "cli.js",
   "bin": {
-      "json-util" : "./cli.js"
+      "json-cli" : "./cli.js"
   },
   "author": "Rafael Costa <rafael@rafaelcosta.me>",
   "license": "MIT"
