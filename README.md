@@ -8,3 +8,5 @@ Running:
 
 Results in:
 `Evaluated: iPhone 6s`
+
+![Example](/images/cli-json.png)
